@@ -7,9 +7,7 @@ Test Metodolojileri: TDD (Test Odaklı Geliştirme), BDD (Davranış Odaklı Gel
 Test Araçları: Selenium WebDriver, JUnit, TestNG, Cucumber, Postman , Maven , Appium
 Çevik Metodolojiler: Scrum, Kanban
 📈 Teknoloji Trendleri ve Gelişmeleri
-Teknoloji sektöründeki gelişmeleri takip ederek  yeni test araçları ve metodolojileri öğrenmeye açığım.Kendimi sürekli geliştirme odaklıyım. Özellikle Selenium WebDriver gibi otomatik test çerçevelerini geliştirip uzmanlaşmak 
-st
-yorum., mobil uygulama testi, web arayüzü testi, API testi ve diğer beklenen test metodolojilerine ilgi duyuyor ve geliştirmeye çalışıyorum.
+Teknoloji sektöründeki gelişmeleri takip ederek  yeni test araçları ve metodolojileri öğrenmeye açığım.Kendimi sürekli geliştirme odaklıyım. Özellikle Selenium WebDriver gibi otomatik test çerçevelerini geliştirip uzmanlaşmayı hedefliyorum, mobil uygulama testi, web arayüzü testi, API testi ve diğer beklenen test metodolojilerine ilgi duyuyor ve geliştirmeye çalışıyorum.
 
 <!---
 AycinKapar/AycinKapar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
