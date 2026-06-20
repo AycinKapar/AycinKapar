@@ -1,15 +1,6 @@
-👋 Hi, I’m @AycinKapar Yazılım test etme ve kalite güvencesine yoğun ilgi duyan bir yazılım test uzmanıyım.Test deneyimlerimi paylaşmak, yeni beceriler öğrenmek ve toplulukla etkileşim kurmak için buradayım.
-
-💻 Becerileri Test Etme
-Programlama Dilleri: Java
-Web Teknolojileri: HTML
-Test Metodolojileri: TDD (Test Odaklı Geliştirme), BDD (Davranış Odaklı Geliştirme), Keşifsel Test, Regresyon Testi , Smoke Test ,
-Test Araçları: Selenium WebDriver, JUnit, TestNG, Cucumber, Postman , Maven , Appium
-Çevik Metodolojiler: Scrum, Kanban
-📈 Teknoloji Trendleri ve Gelişmeleri
-Teknoloji sektöründeki gelişmeleri takip ederek  yeni test araçları ve metodolojileri öğrenmeye açığım.Kendimi sürekli geliştirme odaklıyım. Özellikle Selenium WebDriver gibi otomatik test çerçevelerini geliştirip uzmanlaşmayı hedefliyorum, mobil uygulama testi, web arayüzü testi, API testi ve diğer beklenen test metodolojilerine ilgi duyuyor ve geliştirmeye çalışıyorum.
-
-<!---
-AycinKapar/AycinKapar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am an ISTQB Certified Tester Foundation Level (CTFL) professional with a strong interest in Software Testing and Quality Assurance.
+I have hands-on experience in both Manual and Automation Testing through a 7-month internship program, where I actively participated in various software testing projects. During this period, I gained practical experience in test planning, test case design, test execution, defect reporting, and quality assurance processes throughout the Software Testing Life Cycle (STLC) and Software Development Life Cycle (SDLC).
+My technical skill set includes Java, Selenium WebDriver, Cucumber, TestNG, JUnit, SQL, API Testing, Postman, Jenkins, Apache POI, Database Testing, and Artificial Intelligence fundamentals. I am also familiar with Agile and Scrum methodologies and have experience using Jira, Xray, and Zephyr for test management, defect tracking, and project collaboration.
+I am passionate about software quality, continuous learning, and delivering reliable user experiences. Currently, I am improving my English and Spanish language skills while continuing to develop my expertise in software testing and automation.
+I am highly motivated, detail-oriented, and eager to contribute to innovative teams while growing my career as a QA Engineer. I am open to QA Tester, Software Test Engineer, Quality Assurance, and international remote opportunities where I can learn, contribute, and create value.
+I hold an ISTQB Certified Tester Foundation Level (CTFL) certification. As a QA professional focused on improving software quality, enhancing user experience, and continuous learning, I aim to develop my career in international environments.
